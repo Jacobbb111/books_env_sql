@@ -1,2 +1,2 @@
 # SQLYAZKAMPİ
-Bootcamp SQL Ödev-1
+Bootcamp SQL Ödev ve BİTİRME PROJESİ
