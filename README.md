@@ -1,2 +1,2 @@
-# books_env_sql
+# SQLYAZKAMPİ
 Bootcamp SQL Ödev-1
